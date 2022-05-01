@@ -5,3 +5,8 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+
+.cabecalho-logo{
+    height: 70px;
+    padding-left: 15px;
+    padding-top: 15px;
